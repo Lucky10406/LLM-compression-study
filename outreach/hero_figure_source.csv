@@ -1,0 +1,7 @@
+model,display_name,family,scope,macro_f1,median_latency_ms,pareto_optimal_archived_mixed_system,usable,source
+FP16_Qwen,FP16 Qwen,Qwen,architecture-preserving,0.732505725427883,782.0,False,True,Phase 13 Appendix C transcription of Phase 11/12 record
+INT8_Qwen,INT8 Qwen,Qwen,architecture-preserving,0.7232,2849.0,False,True,Phase 13 Appendix C transcription of Phase 11/12 record
+INT4_NF4_Qwen,INT4 NF4 Qwen,Qwen,architecture-preserving,0.7497,1074.0,False,True,Phase 13 Appendix C transcription of Phase 11/12 record
+Pruned_30,Pruned 30% Qwen,Qwen,architecture-preserving,0.6333022599482043,1001.7595619999611,False,True,Phase 13 Appendix C transcription of Phase 11/12 record
+Distilled_DistilBERT,Distilled DistilBERT,DistilBERT,task-specific alternative,0.7629680730982821,4.3781935000878995,True,True,Phase 13 Appendix C transcription of Phase 11/12 record
+

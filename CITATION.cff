@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this project, please cite it using the metadata below."
+type: software
+title: "Green AI Compression for Disaster-Tweet Classification"
+authors:
+  - family-names: "Sharma"
+    given-names: "Mayuresh"
+    affiliation: "Guru Gobind Singh Indraprastha University (GGSIPU), New Delhi"
+    email: "mayureshsharma10406@gmail.com"
+repository-code: "https://github.com/Lucky10406/LLM-compression-study"
+url: "https://github.com/Lucky10406/LLM-compression-study"
+version: "0.1.0"
+keywords:
+  - Green AI
+  - model compression
+  - quantization
+  - pruning
+  - knowledge distillation
+  - disaster tweet classification

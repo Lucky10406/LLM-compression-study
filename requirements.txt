@@ -1,0 +1,17 @@
+# Dependencies verified from the included Phase 2-4 code and recovered Phase 8-12 Kaggle notebooks.
+# Install a PyTorch/CUDA build appropriate for the target GPU separately.
+accelerate==1.14.0
+bitsandbytes==0.50.1
+codecarbon==3.3.0
+datasets>=2.18,<6
+huggingface-hub>=0.34,<2
+ipykernel>=6,<8
+matplotlib>=3.8,<4
+numpy>=1.26,<3
+packaging>=23,<26
+pandas>=2.0,<4
+peft==0.19.1
+safetensors==0.8.0
+scikit-learn>=1.4,<2
+torchao>=0.17.0
+transformers==4.57.3

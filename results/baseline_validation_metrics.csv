@@ -1,0 +1,2 @@
+model,macro_f1,weighted_f1
+baseline_tfidf_logreg,0.7031865061831748,0.7314066494425634
