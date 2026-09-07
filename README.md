@@ -133,7 +133,9 @@ The experiments cover one dataset, one primary teacher model, one fixed benchmar
 
 Citation metadata is provided in [CITATION.cff](CITATION.cff).
 
-## Author and contact
+## Authors and contact
+
+### Mayuresh Sharma
 
 - **Author:** Mayuresh Sharma
 - **University:** Guru Gobind Singh Indraprastha University (GGSIPU), New Delhi
@@ -142,3 +144,10 @@ Citation metadata is provided in [CITATION.cff](CITATION.cff).
 - **GitHub:** https://github.com/Lucky10406
 - **LinkedIn:** https://www.linkedin.com/in/mayuresh-sharma-a08526315
 - **Email:** mayureshsharma10406@gmail.com
+
+### Aditya Chauhan
+
+- **Co-author:** Aditya Chauhan
+- **University:** Guru Gobind Singh Indraprastha University (GGSIPU), New Delhi
+- **Degree / year:** B.Tech in Computer Science and Engineering, 3rd year
+- **Email:** aditya29ch@gmail.com

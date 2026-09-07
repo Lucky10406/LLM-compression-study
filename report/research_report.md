@@ -1,9 +1,9 @@
 # Green AI Compression for Disaster-Tweet Classification: An Empirical Comparison of Quantization, Pruning, and Knowledge Distillation
 
-**Mayuresh Sharma**  
+**Mayuresh Sharma and Aditya Chauhan**  
 Guru Gobind Singh Indraprastha University (GGSIPU), New Delhi  
 B.Tech in Computer Science and Engineering, 3rd year  
-Email: mayureshsharma10406@gmail.com
+Emails: Mayuresh Sharma — mayureshsharma10406@gmail.com; Aditya Chauhan — aditya29ch@gmail.com
 
 Research report • Phase 13 synthesis of experiments through Phase 12
 
@@ -542,7 +542,7 @@ other_relevant_information
 
 The supplied Phase 10 PDF is the baseline. All validated Phase 1-10 methods, experiments, measured tables, figure assets, metrics, and substantive conclusions have been retained in this Phase 13 revision. Tables 1-8 and Figures 1-14 preserve their original numbering and values. Table 12 updates the former planned-stage record to completed status; the obsolete next-stage section and continuation instructions have been replaced by completed methods, results, interpretation, and reproducibility reporting. Tables 9-11 and Figures 15-17 contain the new synthesis and visualizations. The DOCX is the editable manuscript; the PDF is rendered from it. The existing Phase 12 DOCX was edited directly; it was not reconstructed from the PDF. Tables formerly labeled C1–C8 are now Tables 13–20 to maintain sequential numbering. Their cells and all 17 original figure assets are unchanged.
 
-Edits to earlier wording clarify scope rather than overwrite findings: the energy minimum in Section 7.4 refers to the three Qwen precision variants, Figure 11 covers precision and pruning, and the original pipeline figure remains a Phase 1-10 record. Rounded results in the baseline are retained alongside the higher-precision CSV record. Author and institution metadata were subsequently supplied by Mayuresh Sharma and added without changing any experimental claim. No new training result, missing resource value, class support, significance test, or software version has been invented.
+Edits to earlier wording clarify scope rather than overwrite findings: the energy minimum in Section 7.4 refers to the three Qwen precision variants, Figure 11 covers precision and pruning, and the original pipeline figure remains a Phase 1-10 record. Rounded results in the baseline are retained alongside the higher-precision CSV record. Author and institution metadata were subsequently supplied by Mayuresh Sharma. The authors are Mayuresh Sharma and Aditya Chauhan, both at GGSIPU, New Delhi. This administrative update does not change any experimental claim. No new training result, missing resource value, class support, significance test, or software version has been invented.
 
 research_paper_through_phase10(3).pdf - SHA-256: 48e6e814502ec5fd6d3327f28c4c8bd07a0b7c6ecc60b8af5af7e69a66d5497c
 

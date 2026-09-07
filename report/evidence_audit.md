@@ -537,7 +537,7 @@ No missing resource value, tokenizer revision, library version, exact prompt tem
 
 - PASS: 175 Phase 11/12 source fields checked against the model-record tables with no discrepancies; the disclosed Pareto definition reproduces all five archived flags.
 
-- LIMITATION: end-to-end experiment reproduction cannot pass with the supplied summary-only backups. The report explicitly limits verification to available evidence. Author and affiliation metadata were later supplied by Mayuresh Sharma; this administrative update does not alter the evidence assessment.
+- LIMITATION: end-to-end experiment reproduction cannot pass with the supplied summary-only backups. The report explicitly limits verification to available evidence. Author and affiliation metadata were later supplied by Mayuresh Sharma. Mayuresh Sharma and Aditya Chauhan are listed as authors, both at GGSIPU, New Delhi; this administrative update does not alter the evidence assessment.
 
 ## References checked
 
