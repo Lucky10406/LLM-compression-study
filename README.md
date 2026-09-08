@@ -107,7 +107,7 @@ See [reproducibility](docs/reproducibility.md) for current and pending requireme
     └── plots/
 ```
 
-The included notebooks cover dataset exploration, preprocessing, the classical baseline, and Phases 8-12:
+The included notebooks cover dataset exploration, preprocessing, the classical baseline:
 
 - `08_phase8_quantization_benchmark.ipynb` — merged-Qwen evaluation plus FP16, INT8, and INT4 NF4 benchmarking
 - `09_phase9_pruning.ipynb` — 30%, 50%, and 70% unstructured magnitude pruning
@@ -115,7 +115,6 @@ The included notebooks cover dataset exploration, preprocessing, the classical b
 - `11_phase11_final_comparison.ipynb` — unified comparison, relative deltas, Pareto analysis, and rare-class comparison
 - `12_phase12_visualizations.ipynb` — final research figures
 
-A dedicated QLoRA fine-tuning notebook and the earlier Phase 6/7 notebooks were not among the five recovered files. Phase 8 does contain merge-before-quantize and evaluation code.
 
 ## Research paper
 
