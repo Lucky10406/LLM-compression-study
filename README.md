@@ -146,7 +146,11 @@ Citation metadata is provided in [CITATION.cff](CITATION.cff).
 
 ### Aditya Chauhan
 
-- **Co-author:** Aditya Chauhan
+### Aditya Chauhan
+
+- **Author:** Aditya Chauhan
 - **University:** Guru Gobind Singh Indraprastha University (GGSIPU), New Delhi
 - **Degree / year:** B.Tech in Computer Science and Engineering, 3rd year
+- **Research interests:** Large language models (LLMs), Green AI, hardware-aware machine learning, real-time AI systems, and AI for climate
+- **LinkedIn:** https://www.linkedin.com/in/aditya-chauhan-47935732a/
 - **Email:** aditya29ch@gmail.com
